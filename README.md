@@ -1,2 +1,2 @@
 # ats-checker
-Gain instantly report about your resume
+Gain an instant report about your resume
